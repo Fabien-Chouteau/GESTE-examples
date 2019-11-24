@@ -8,8 +8,10 @@ project-files = ["platformer/platformer.gpr",
                  "RPG/RPG.gpr",
                  "racing/racing.gpr"]
 
+licenses = ["BSD 3-Clauses"]
+
 ['0.0.0']
-origin = 'file://.'
+origin = 'file://..'
 ['0.0.0'.depends-on]
 geste = "1.0.0"
 sdlada = "2.3.1"
