@@ -1,0 +1,15 @@
+[general]
+description = "Example for the GESTE game engine"
+maintainers = ["fabien.chouteau@gmail.com"]
+maintainers-logins = ["Fabien-Chouteau"]
+
+
+project-files = ["platformer/platformer.gpr",
+                 "RPG/RPG.gpr",
+                 "racing/racing.gpr"]
+
+['0.0.0']
+origin = 'file://.'
+['0.0.0'.depends-on]
+geste = "1.0.0"
+sdlada = "2.3.1"
