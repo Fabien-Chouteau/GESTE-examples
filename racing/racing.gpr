@@ -1,4 +1,4 @@
-with "gnat/sdlada.gpr";
+with "sdlada.gpr";
 
 project Racing extends "geste" is
 

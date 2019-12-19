@@ -1,4 +1,4 @@
-with "gnat/sdlada.gpr";
+with "sdlada.gpr";
 
 project Platformer extends "geste" is
 

@@ -1,4 +1,4 @@
-with "gnat/sdlada.gpr";
+with "sdlada.gpr";
 
 project RPG extends "geste" is
 
